@@ -1804,3 +1804,6 @@ h2.mb-4.pb-2 {
     opacity: 1;
     transform: translateY(0);
 }
+body, html {
+  overflow-x: hidden;
+}
